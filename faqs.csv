@@ -1,0 +1,31 @@
+Question,Answer
+What is AI?,AI stands for Artificial Intelligence.
+What is Machine Learning?,Machine Learning is a subset of AI that learns from data.
+What is Deep Learning?,Deep Learning uses neural networks with multiple layers.
+What is Python?,Python is a popular programming language.
+What is NLP?,NLP stands for Natural Language Processing.
+What is Data Science?,Data Science focuses on extracting insights from data.
+What is a Neural Network?,A Neural Network is inspired by the structure of the human brain.
+What is ChatGPT?,ChatGPT is a conversational AI model developed by OpenAI.
+What is Computer Vision?,Computer Vision enables machines to understand visual information.
+What is TensorFlow?,TensorFlow is an open-source machine learning framework.
+What is supervised learning?,Supervised learning uses labeled data for training.
+What is unsupervised learning?,Unsupervised learning finds patterns in unlabeled data.
+What is reinforcement learning?,Reinforcement learning learns through rewards and penalties.
+What is overfitting?,Overfitting occurs when a model memorizes training data.
+What is underfitting?,Underfitting occurs when a model fails to learn patterns.
+What is a dataset?,A dataset is a collection of data used for analysis.
+What is feature engineering?,Feature engineering involves creating useful input variables.
+What is model training?,Model training is the process of teaching an algorithm using data.
+What is classification?,Classification predicts categorical outputs.
+What is regression?,Regression predicts continuous numerical values.
+What is clustering?,Clustering groups similar data points together.
+What is K-Means?,K-Means is a clustering algorithm.
+What is a decision tree?,A Decision Tree is a tree-based predictive model.
+What is random forest?,Random Forest combines multiple decision trees.
+What is logistic regression?,Logistic Regression is used for classification tasks.
+What is accuracy in machine learning?,Accuracy measures overall prediction correctness.
+What is precision?,Precision measures how many predicted positives are correct.
+What is recall?,Recall measures how many actual positives are identified.
+What is F1 score?,F1 Score balances precision and recall.
+What is OpenAI?,OpenAI is an artificial intelligence research organization.
